@@ -59,6 +59,7 @@
 
   },
   "dependencies": {
+    "concurrently": "^7.1.0",
     "@angular/cli": "^14.2.6",
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
